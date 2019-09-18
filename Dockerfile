@@ -1,4 +1,4 @@
-FROM python:2.7-alpine
+FROM python:3-alpine
 
 MAINTAINER Jan Ehrhardt <jan.ehrhardt@gmail.com>
 
